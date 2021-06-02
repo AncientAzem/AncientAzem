@@ -12,4 +12,4 @@
 - 😄 Pronouns: **he/him**
 <!-- - 🌱 I’m currently learning **** -->
 <!-- - ⚡ Fun fact: **** -->
-![Metrics](https://github.com/DevJinnial/DevJinnial/blob/main/github-metrics.svg)
+<!-- ![Metrics](https://github.com/DevJinnial/DevJinnial/blob/main/github-metrics.svg) -->
