@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **iOS App Development**
 - 👯 I’m currently collaborating on **[XIV Mod Repository](https://github.com/XivRepo/XivRepo-Frontend)**
-- 🤔 I’m looking to help with **Frontend Web Apps**
+- 🌟 I’m looking to help with **Frontend Web Apps**
 - 💬 Ask me about **Firebase**
 - 📫 How to reach me: Discord! My tag is **Khal#0001**
 - 😄 Pronouns: **he/him**
