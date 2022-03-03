@@ -9,7 +9,6 @@
 - 👯 I’m currently collaborating on **[SaltedXIV](https://saltedxiv.com)**
 - 🌟 I’m looking to help with **Frontend Web Apps**
 - 💬 Ask me about **Firebase**
-- 📫 How to reach me: Discord! My tag is **Azem#1001** but please mention where you found me
 - 😄 Pronouns: **they/them**
 <!-- - 🌱 I’m currently learning **** -->
 <!-- - ⚡ Fun fact: **** -->
