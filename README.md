@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **iOS App Development**
 -->
-
-- 👯 I’m currently collaborating on **[SaltedXIV](https://saltedxiv.com)**
 - 🌟 I’m looking to help with **Frontend Web Apps**
 - 💬 Ask me about **Firebase**
 - 😄 Pronouns: **they/them**
